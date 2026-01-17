@@ -111,3 +111,5 @@ def aboutMsg():
 - Фоновую музыку для настроения 🎶
 
 **Ты - дизайнер своей вселенной!** 🌈✨
+<img width="809" height="817" alt="image" src="https://github.com/user-attachments/assets/75f1dd6b-61ca-4b1d-8b8e-fdc426d419c2" />
+
